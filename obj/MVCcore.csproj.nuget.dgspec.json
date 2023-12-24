@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MVCcoreDemoApp\\MVCcore\\MVCcore.csproj": {}
+    "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MvcCoreDemoApp\\MVCcore\\MVCcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MVCcoreDemoApp\\MVCcore\\MVCcore.csproj": {
+    "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MvcCoreDemoApp\\MVCcore\\MVCcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MVCcoreDemoApp\\MVCcore\\MVCcore.csproj",
+        "projectUniqueName": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MvcCoreDemoApp\\MVCcore\\MVCcore.csproj",
         "projectName": "MVCcore",
-        "projectPath": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MVCcoreDemoApp\\MVCcore\\MVCcore.csproj",
+        "projectPath": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MvcCoreDemoApp\\MVCcore\\MVCcore.csproj",
         "packagesPath": "C:\\Users\\Saira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MVCcoreDemoApp\\MVCcore\\obj\\",
+        "outputPath": "C:\\Users\\Saira\\OneDrive\\Desktop\\Projects\\MvcCoreDemoApp\\MVCcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saira\\AppData\\Roaming\\NuGet\\NuGet.Config",

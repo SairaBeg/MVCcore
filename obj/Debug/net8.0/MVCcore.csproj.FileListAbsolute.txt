@@ -138,3 +138,4 @@ C:\Users\Saira\OneDrive\Desktop\Projects\MVCcoreDemoApp\MVCcore\obj\Debug\net8.0
 C:\Users\Saira\OneDrive\Desktop\Projects\MVCcoreDemoApp\MVCcore\obj\Debug\net8.0\MVCcore.pdb
 C:\Users\Saira\OneDrive\Desktop\Projects\MVCcoreDemoApp\MVCcore\obj\Debug\net8.0\MVCcore.genruntimeconfig.cache
 C:\Users\Saira\OneDrive\Desktop\Projects\MVCcoreDemoApp\MVCcore\obj\Debug\net8.0\ref\MVCcore.dll
+C:\Users\Saira\OneDrive\Desktop\Projects\MvcCoreDemoApp\MVCcore\obj\Debug\net8.0\MVCcore.sourcelink.json
